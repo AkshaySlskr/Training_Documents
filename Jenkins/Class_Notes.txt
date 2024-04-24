@@ -177,7 +177,20 @@ jenkins --version
 Install GIT :
 
 sudo apt install git -y
-			
+
+systemctl status jenkins
+
+cd /var/lib/jenkins/
+pwd
+/var/lib/jenkins/         -(default directory for Jenkinms)
+
+
+
+
+
+
+
+
 			/var/lib/jenkins			# Jenkins Default Directory.
 			
 			Access Jenkin using web browser:
